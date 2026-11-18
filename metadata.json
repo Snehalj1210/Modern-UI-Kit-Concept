@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Raster — Artistic UI Kit & Design System",
+  "description": "A Neo-Bauhaus and Swiss International Style UI design system, reusable component library, style guide, interactive prototype, usability testing workspace, and academic presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
